@@ -1,4 +1,3 @@
-```markdown
 # Franz Plumbing -- Autonomous Agent Platform
 
 A platform where vision-language models physically control a Windows 11 PC
@@ -405,4 +404,3 @@ from the interaction, not from any single agent being right.
 - The exec() sandbox is minimal (no builtins), not a security boundary.
 - Swarm agents may enter infinite disagreement loops. The max_debate_rounds
   tiebreaker prevents deadlock but the forced choice may not be optimal.
-```
